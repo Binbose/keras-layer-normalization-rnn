@@ -33,3 +33,6 @@ one, or whether they should be split up in 4(LSTM)/2(GRU) smaller matrix multipl
 
 # Notes
 For the LSTM layer, this implementation works with the ```implementaion=1``` and ```implementation=0``` flag. For GRU only ```implementation=1``` is supported.
+
+# TODO
+Think of better names for the flags
